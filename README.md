@@ -10,7 +10,7 @@ This repo contains the code for our pre-print paper [Variance Networks: When Exp
 
 We actually have two version of the code:
 - **TensorFlow implementation** is done with python 2.7, and will help to reproduce CIFAR results i.e. training variance layers via variational dropout.
-- **PyTorch implementation** is a way more accurate and reproduce results on MNIST and the toy problem. It requires python 3.6 and pytorch 0.3.
+- **PyTorch implementation** is a way more accurate and reproduces results on MNIST and the toy problem. It requires python 3.6 and pytorch 0.3.
 
 # Citation
 
