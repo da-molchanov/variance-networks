@@ -1,12 +1,8 @@
 # Variance Networks
 
-This repo contains the code for our pre-print paper [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/abs/1803.03764).
+This repo contains the code for our pre-print paper on [Variance Networks](https://arxiv.org/abs/1803.03764), [takl](https://youtu.be/KwfED-brvj8).
 
-## Talk by Dmitry Molchanov
-
-[![ICML 2017 Oral Presentation by Dmitry Molchanov](https://bayesgroup.github.io/images/vn.png)](https://youtu.be/KwfED-brvj8)
-
-## Experiments
+# Code
 
 We actually have two version of the code:
 - **TensorFlow implementation** is done with python 2.7, and will help to reproduce CIFAR results i.e. training variance layers via variational dropout.
