@@ -1,6 +1,6 @@
 # Variance Networks
 
-This repo contains the code for our pre-print paper on [Variance Networks](https://arxiv.org/abs/1803.03764), [talk](https://youtu.be/KwfED-brvj8).
+This repo contains the code for our pre-print paper on [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/abs/1803.03764), [talk](https://youtu.be/KwfED-brvj8).
 
 # Code
 
