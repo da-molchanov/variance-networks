@@ -1,5 +1,5 @@
 # Variance Networks
-The code for our pre-print paper on [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/abs/1803.03764), [talk](https://youtu.be/KwfED-brvj8).
+The code for our ICLR 2019 paper on [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/abs/1803.03764), [talk](https://youtu.be/KwfED-brvj8).
 
 # Code
 We actually have two version of the code:
@@ -12,7 +12,7 @@ If you found this code useful please cite our paper
 @article{neklyudov2018variance,
   title={Variance Networks: When Expectation Does Not Meet Your Expectations},
   author={Neklyudov, Kirill and Molchanov, Dmitry and Ashukha, Arsenii and Vetrov, Dmitry},
-  journal={arXiv preprint arXiv:1803.03764},
-  year={2018}
+  journal={7th International Conference on Learning Representations},
+  year={2019}
 }
 ```
