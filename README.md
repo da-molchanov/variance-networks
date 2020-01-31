@@ -1,5 +1,10 @@
 # Variance Networks
-The code for our ICLR 2019 paper on [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/abs/1803.03764), [talk](https://youtu.be/KwfED-brvj8).
+The code for our ICLR 2019 paper on [Variance Networks: When Expectation Does Not Meet Your Expectations](https://arxiv.org/abs/1803.03764).
+
+
+## Talk video
+
+[![](http://i3.ytimg.com/vi/KwfED-brvj8/maxresdefault.jpg)](https://youtu.be/KwfED-brvj8)
 
 # Code
 We actually have two version of the code:
